@@ -1,8 +1,10 @@
 /target
 *.class
+*._trace
 
 # Package Files #
 *.jar
 *.war
 *.ear
 
+/sample.db
