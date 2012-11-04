@@ -1,3 +1,4 @@
+import ^def.Main
 class Toto {
 	
 	def test(){

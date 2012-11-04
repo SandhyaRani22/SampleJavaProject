@@ -1,3 +1,5 @@
+import def.Main;
+
 @SuppressWarnings("all")
 public class Toto {
   public void test() {
